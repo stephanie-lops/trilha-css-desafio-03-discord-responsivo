@@ -29,5 +29,16 @@ O projeto foi desenvolvido com foco em:
 
 ## Como Executar
 1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```bash
+   git clone https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd trilha-css-desafio-03-discord-responsivo
+
+3. Abra o arquivo index.html no navegador de sua preferência
+
+## Créditos
+
+- Projeto desenvolvido no Bootcamp Santander 2025 - Front End (DIO)
+- Autora: Stephanie Lopes

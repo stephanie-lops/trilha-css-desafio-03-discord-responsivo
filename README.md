@@ -3,6 +3,9 @@
 ## Descrição do Projeto
 Este projeto consiste na reprodução da página inicial da plataforma **Discord**, utilizando HTML e CSS. O principal objetivo do desafio é aplicar conceitos de **responsividade**, garantindo que a página se adapte a diferentes tamanhos de tela, desde desktops até dispositivos móveis.
 
+## Preview do Projeto
+![Preview da Página](assets/images/preview-discord.png)
+
 Link deploy: https://trilha-css-desafio-03-discord-respo.vercel.app/
 
 O layout inclui:

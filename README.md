@@ -1,12 +1,15 @@
-# Reproduzindo a Página do Discord – Desafio Front End
+# Reproduzindo a Página do Discord – Desafio Front-End
 
 ## Descrição do Projeto
-Este projeto consiste na reprodução da página inicial da plataforma **Discord**, utilizando HTML e CSS. O principal objetivo do desafio é aplicar conceitos de **responsividade**, garantindo que a página se adapte a diferentes tamanhos de tela, desde desktops até dispositivos móveis.
+Este projeto consiste na reprodução da página inicial da plataforma **Discord**, utilizando HTML e CSS. O principal objetivo do desafio é aplicar conceitos de **responsividade**, garantindo que a página se adapte a diferentes tamanhos de tela.
+Nesse projeto foram considerados dois tamanhos de tela: desktop e Iphone 13 Pro Max.
 
 ## Preview do Projeto
 ![Preview da Página](assets/images/preview-discord.png)
 
 Link deploy: https://trilha-css-desafio-03-discord-respo.vercel.app/
+
+Link figma: https://www.figma.com/design/NRBYrG5d4DSzObv7dpTqoM/Desafio-Responsividade---DIO?node-id=0-1&p=f&t=n4AzZrC8uceNsVDZ-0
 
 O layout inclui:
 - **Header** com imagem de fundo, título e botões de ação.

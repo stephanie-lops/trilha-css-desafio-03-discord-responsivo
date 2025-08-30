@@ -30,7 +30,7 @@ O projeto foi desenvolvido com foco em:
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo
+   git clone https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo.git
 
 2. Acesse a pasta do projeto:
    ```bash
